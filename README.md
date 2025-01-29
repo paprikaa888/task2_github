@@ -1,5 +1,6 @@
 # task2_github
-#Hello 
-## this is my first branch
-## just learning
-# xd
+
+this is our task in the afternoon <br/>
+we did it great by helping each other <br/>
+it's late now so we're dreaming to finally go home 🏠 <br/>
+## thx for your attention! 💟
