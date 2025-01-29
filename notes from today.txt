@@ -1,0 +1,26 @@
+Kernel- boss, allocates time and memory
+Shell- terminal, user communicates with kernel via shell (bash, zsh, cmd for windows)
+Program
+
+
+Pwd- print working directory- show me where I am 
+Cd- change director (example: cd desktop)
+Cd ..- go back
+Ls- list
+Mkdir- make directory example: mkdir/
+
+Git:
+Pull- get the copy to start a new branch
+Push- save the main
+Fork- make a copy
+Git config —global pull.ff only
+Checking where I am in VS Code:
+Git — version
+Python —version
+
+Git add <file name> or git add . (Dot means everything)- adding a file to my git acc
+Git commit -m „ …..my message…”
+git commit
+Git push
+stage area- first place where I want to save a file which I will commit with other
+git push --set-upstream origin <branch_name>
